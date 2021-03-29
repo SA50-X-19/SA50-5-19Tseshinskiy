@@ -24,11 +24,13 @@
     width: 75px;
     text-transform: uppercase;
 }
+
 header {
     height: 779px;
     width: 1440px;
     background-image: url(./Rectangle.png);
 }
+
 .nav {
     width: 100%;
 }
@@ -76,6 +78,7 @@ header {
     color: #30ba8e00;
     font-size: 0.5px;
 }
+
 .h2{
     margin-top: -508px; 
     margin-left: -600px; 
